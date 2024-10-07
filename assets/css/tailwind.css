@@ -1,0 +1,20 @@
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+@tailwind variants;
+
+body{
+  
+   
+}
+
+@layer components {
+    .btn {
+        @apply font-bold py-2 px-3 rounded-lg bg-cyan-50 text-black bg-cyan-300;
+    }
+    
+    .card {
+        @apply p-3 rounded-md bg-white shadow-md h-full;
+    }
+}
+

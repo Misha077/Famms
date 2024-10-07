@@ -1,0 +1,6 @@
+{
+  "repositoryName": "charming-eclair-1chm2x",
+  "adapter": "@slicemachine/adapter-nuxt",
+  "libraries": ["./slices"],
+  "localSliceSimulatorURL": "http://localhost:3000/slice-simulator"
+}
